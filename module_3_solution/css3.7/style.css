@@ -63,3 +63,6 @@ h3{
     padding: 0;
   }
 
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
